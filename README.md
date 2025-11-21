@@ -1,4 +1,4 @@
-# INTERFACING-OF-ADC-WITH-ARM-PROCESSOR
+# 4 INTERFACING-OF-ADC-WITH-ARM-PROCESSOR
 
 # AIM: 
    To interface and toggle the led with ARM LPC 1768 microprocessor           
